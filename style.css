@@ -80,7 +80,7 @@ body * {
 }
 
 #switch button:hover {
-  outline: 8px solid var(--highlight-color)
+  outline: 8px solid var(--highlight-color);
 }
 
 .light #switch button {
@@ -196,10 +196,8 @@ footer {
 }
 
 .eu {
-
-border-radius: 100%;
-width: 100%;
-aspect-ratio: 1/1;
-object-fit: cover;
-
+  border-radius: 100%;
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
 }
